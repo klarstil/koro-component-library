@@ -11,7 +11,7 @@ const buttonStyle = cva({
             secondary: '',
         },
         size: {
-            regular: 'text-base',
+            regular: 'text-lg',
             small: 'text-xs',
         },
         type: {
